@@ -1,2 +1,2 @@
 # lesson-2
-first ome work
+https://khanetsky-zhenya.github.io/lesson-2/
